@@ -10,7 +10,7 @@
 ### Day 2: January 8th, 2018 
 
 
-**Today's Progress**: Completed the whole Resposive design and Bootstrap portion in about an hour.
+**Today's Progress**: Completed the whole Responsive Design and Bootstrap portion in about an hour.
 
 **Thoughts:** I've used bootstrap a bunch but this really broke it down nicely for me. Really started to grasp the whole div class and row class thing. 
 
