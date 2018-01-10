@@ -14,4 +14,10 @@
 
 **Thoughts:** I've used bootstrap a bunch but this really broke it down nicely for me. Really started to grasp the whole div class and row class thing. 
 
+### Day 3: January 9th, 2018 
+
+
+**Today's Progress**: Completed jquery and set up my Code Pen account
+
+**Thoughts:** Pretty Cool, I never wrote in JS before. Got a little confusing but i figured it out. Looking forward to more JS stuff. 
 
