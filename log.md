@@ -21,3 +21,11 @@
 
 **Thoughts:** Pretty Cool, I never wrote in JS before. Got a little confusing but i figured it out. Looking forward to more JS stuff. 
 
+### Day 4: January 10th, 2018 
+
+
+**Today's Progress**: Finished my Tribute Page on CodePen.io. Check it out: https://codepen.io/Bdwyz/full/vpRbbP/. 
+
+**Thoughts:** First time working on Code Pen but I got the hang of it. deff coded for more then an hour today but I feel like I'm starting to memorize the code now. feels good to code fluently. 
+
+
