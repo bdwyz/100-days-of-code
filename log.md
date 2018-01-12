@@ -28,4 +28,11 @@
 
 **Thoughts:** First time working on Code Pen but I got the hang of it. deff coded for more then an hour today but I feel like I'm starting to memorize the code now. feels good to code fluently. 
 
+### Day 5: January 11th, 2018 
+
+
+**Today's Progress**: Started working on my personal portfolio page. Basically didnt get past the header because of all the fun I was having. 
+
+**Thoughts:** It was nice, not having any restrictions and being able to just design what I wanna design. really started to fool around with the CSS stuff and prob got a little too carried away but it helping me learn. 
+
 
