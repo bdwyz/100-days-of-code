@@ -35,4 +35,10 @@
 
 **Thoughts:** It was nice, not having any restrictions and being able to just design what I wanna design. really started to fool around with the CSS stuff and prob got a little too carried away but it helping me learn. 
 
+### Day 6: January 12th, 2018 
+
+
+**Today's Progress**: Set up my CSS grid on my personal portfolio page.  
+
+**Thoughts:** Didnt really have a lot of time today so I had Nicole drive while I did my 1 hour of code in the car. Got it done, getting the hang of the css grid. 
 
