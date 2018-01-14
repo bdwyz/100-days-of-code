@@ -42,3 +42,11 @@
 
 **Thoughts:** Didnt really have a lot of time today so I had Nicole drive while I did my 1 hour of code in the car. Got it done, getting the hang of the css grid. 
 
+### Day 7: January 13th, 2018 
+
+
+**Today's Progress**: Still trying to figure out these grids and trying to set up sticky anchor links.
+
+**Thoughts:** Got home late but had to code at least for an hour. Got it done feel good but im gonna be shot in the AM. Also I think im gonna have to use JS for the go to top links. 
+
+
