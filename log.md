@@ -49,4 +49,19 @@
 
 **Thoughts:** Got home late but had to code at least for an hour. Got it done feel good but im gonna be shot in the AM. Also I think im gonna have to use JS for the go to top links. 
 
+### Day 8: January 14th, 2018 
+
+
+**Today's Progress**: Started building out the about about me section of my personal portfolio.
+
+**Thoughts:** I still have a lot to learn but im getting really good with my classes and ID's.
+
+
+### Day 9: January 15th, 2018 
+
+
+**Today's Progress**: After a 9 hour day and then going the gym, I got my hour in. Worked on my "favorite things" section. 
+
+**Thoughts:** Getting comfurtable with nesting spans and divs and classes and ID's. feeling good. 
+
 
