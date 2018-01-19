@@ -62,6 +62,19 @@
 
 **Today's Progress**: After a 9 hour day and then going the gym, I got my hour in. Worked on my "favorite things" section. 
 
-**Thoughts:** Getting comfurtable with nesting spans and divs and classes and ID's. feeling good. 
+**Thoughts:** Getting comfortable with nesting spans and divs and classes and ID's. feeling good. 
+
+### Day 10: January 18th, 2018 
+
+
+**Today's Progress**: Missed 2 days :( but got a whole lot of stuff done today. Finished my about section and my portfolio section.
+
+**Thoughts:** I wasnt feeling into but as soon as I got going I was game! I'm just nervous about tomorrow because I hope I can make the site that I worked so hard to build mobile friendly. Also have to learn the nav bar feature in bootstrap4. 
+
+
+
+
+
+
 
 
