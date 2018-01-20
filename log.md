@@ -71,6 +71,12 @@
 
 **Thoughts:** I wasnt feeling into but as soon as I got going I was game! I'm just nervous about tomorrow because I hope I can make the site that I worked so hard to build mobile friendly. Also have to learn the nav bar feature in bootstrap4. 
 
+### Day 11: January 20th, 2018 
+
+
+**Today's Progress**: Finally Finished my Personal Portfolio Site.
+
+**Thoughts:** Still need to lock down css better but getting there. Also I was in bed and I jumped out because I didnt code today lol
 
 
 
